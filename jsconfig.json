@@ -1,5 +1,6 @@
 {
   "compilerOptions": {
+    "baseUrl": ".", // Adicione isso para garantir que o caminho base seja a raiz do projeto
     "paths": {
       "@/*": ["./src/*"]
     }
